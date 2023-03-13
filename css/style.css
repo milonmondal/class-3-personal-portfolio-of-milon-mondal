@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .my-details{
+    margin: 10px 10px 10px 10px;
+    width: 1300px;
+    margin: auto;
+    background-color: rgb(245, 238, 238);
+
+  }
+  .my-info{text-align: center;}
+
+  .my-details h1{
+    color: blue;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0;
+    font-size: 50px;
+    padding-top: 20px;
+  }
+
+  .my-details h3{
+    text-align: center;
+    color: blueviolet;
+    margin: 10px 0 0 10px; 
+    font-size: 30px;
+  }
+
+  .my-details img{
+    width: 20%;
+    height: 20%;
+    margin: 10px;
+    border-radius: 20px;
+  }
+  .biodata{
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: o;
+  }
+  .biodata caption{
+    font-size: 30px;
+    color: blue;
+    text-align: left;
+  }
+  .biodata table{
+    width: 100%;
+    background-color: rgb(215, 226, 226);
+    border-color: blue;
+    text-align: center;
+    border-spacing: 20px;
+    font-size: 20px;
+  }
+  .biodata th{
+    font-size: 20px;
+    color: darkblue;
+  }
+  th,td{
+    padding: 10px;
+  }
+  tr:nth-child(even){
+    background-color: aquamarine;
+  }
+
+  .about{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .about h2{
+    font-size: 30px;
+    text-align: left;
+    color: rgb(40, 3, 113);
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+}
+  .about p{
+    text-align: justify;
+    font-size: 20px;
+    margin-top: 0%;
+}
+.U2CanLearnEnglish{
+
+}
+.U2CanLearnEnglish h3{
+    text-align: left;
+    margin-left: 0;
+    margin-bottom: 0px;
+    font-size: 25px;
+    color: darkblue;
+}
+.U2CanLearnEnglish p{
+    margin-bottom: 0;
+}
+.video{
+text-align: center;
+}
+.video h4{
+  font-size: 30px;
+  margin-bottom: 0;
+  color: darkblue;
+}
+.link{
+    margin-left: 10px;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 20px;
+}
+.thanking{}
+
+.thanking h4{
+    margin-bottom: 0;
+}
+.thanking h5{
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.thanking img{
+    margin-left: 0;
+    margin-top: 0;
+    width: 30px;
+    padding-left: 0;
+}
